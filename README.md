@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![geffzhang 's github stats](https://github-readme-stats.vercel.app/api?username=geffzhang&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true)](https://github.com/geffzhang)
+[![geffzhang 's github stats](https://github-readme-stats.vercel.app/api?username=geffzhang&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&theme=highcontrast)](https://github.com/geffzhang)
 
 ### Experience & Skills
 
