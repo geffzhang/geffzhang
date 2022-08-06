@@ -10,3 +10,4 @@
 - 💬 Can speak Chinese, English. 
 - 🌱 Currently learning Go, CLR, Cloud Native 
 
+![](https://activity-graph.herokuapp.com/graph?username=geffzhang&theme=github)
