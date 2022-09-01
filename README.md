@@ -3,7 +3,7 @@
 
 ### Experience & Skills
 
-- 🏫 Undergraduate Bachelor of Computational Mathematics and Its Applications, 1997-2001, Lanzhou University. 
+- 🏫 Undergraduate Bachelor of Computational Mathematics and Its Applications, 1997-2001, [Lanzhou University](https://www.lzu.edu.cn/). 
 - 👯 [Microsoft Most Valuable Professional](https://mvp.microsoft.com/zh-cn/mvp/Shanyou%20Zhang-33797). 
 - 👯 [Tencent Cloud Valuable Professional](https://cloud.tencent.com/tvp/47).
 - 👯 [Huawei Cloud Most Valuable Professional](https://developer.huaweicloud.com/mvp/member).
