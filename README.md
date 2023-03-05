@@ -2,11 +2,11 @@
 [![geffzhang 's github stats](https://github-readme-stats.vercel.app/api?username=geffzhang&show_icons=true&icon_color=199861&count_private=true&include_all_commits=true&theme=highcontrast)](https://github.com/geffzhang)
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=239573049&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geffzhang&theme=dark&hide_border=true" />
 </div>
 <br>
 
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=239573049&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=geffzhang&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
 
 ### Experience & Skills
